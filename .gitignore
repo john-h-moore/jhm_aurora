@@ -1,4 +1,7 @@
 .sass-cache
+<<<<<<< HEAD
 bower_components/
 node_modules/
 .vendor/bundle
+=======
+>>>>>>> 77bcfdfd5b07abba23a22037a9d11da151e06285
